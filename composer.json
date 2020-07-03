@@ -1,0 +1,11 @@
+{
+    "name": "lzssing/php-helper",
+    "description": "PHP自定义函数",
+    "authors": [
+        {
+            "name": "lzssing",
+            "email": "815796744@qq.com"
+        }
+    ],
+    "require": {}
+}

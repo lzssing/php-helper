@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+
+  ### PHP Container #######################################
+  php:
+    image: lzssing/php:7.2
+    tty: true
+    restart: always
+    volumes:
+      - ./:/var/www/
+
+ 
